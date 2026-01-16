@@ -1,16 +1,15 @@
-# Project Title  
-**Innocent: An AI-Powered Leadership Support Tool**
+# Innocent: AI-Powered Leadership Decision Support
 
 ## Summary  
-Innocent is an AI-based leadership support tool designed to help leaders make ethical, inclusive, and data-informed decisions. The project focuses on using AI to analyze leadership challenges and suggest fair, transparent, and people-centered solutions in organizational settings.
+Innocent is an AI-based leadership support project designed to help leaders make ethical, inclusive, and data-informed decisions. The system analyzes leadership challenges and provides insights that promote transparency, fairness, and effective communication within organizations.
 
 ## Background  
-Leadership decisions often affect many people, yet they are sometimes made with limited information, bias, or emotional pressure. This project aims to support leaders by providing AI-driven insights that promote ethical leadership, accountability, and better communication.
+Leadership decisions often impact many individuals, yet they are frequently made under pressure, with limited data, or influenced by personal bias. This project aims to reduce these challenges by using AI to support leaders with objective insights and ethical guidance.
 
-The idea addresses the following problems:
-- Poor decision-making due to bias or lack of data  
-- Miscommunication between leaders and teams  
-- Ethical challenges in leadership roles  
+The project addresses the following problems:
+- Biased or emotionally driven leadership decisions  
+- Poor communication between leaders and team members  
+- Ethical dilemmas in organizational leadership  
 - Limited access to leadership coaching and feedback  
 
-These problems are very common in organizations, especially in fast-growing institutions and workplaces with diverse teams. My personal motivation comes from observing how leadership decisions directly impact employee morale, productivity, and trust. This topic is important because strong, ethical leadership is essential for sustainable growth and positive organizational culture.
+These issues are common in many organizations, especially in workplaces with diverse teams and rapid growth. My personal motivation comes from observing how leadership quality directly affects trust, productivity, and morale. This topic is important because ethical and informed leadership is essential for sustainable organizational success.
